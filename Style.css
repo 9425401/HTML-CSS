@@ -1,0 +1,231 @@
+h1{
+    height: 100px;
+    width : 200px;
+    background-color : pink;
+    color : red;
+    text-align: center;
+    border: 2px dashed brown;
+}
+
+p{
+    color :blue;
+    text-align: center;
+}
+
+pre{
+    color :brown;
+}
+
+body{
+    background-color : orange;
+    
+}
+
+button{
+        color : white;
+        background-color : black;
+        display : block;
+}
+
+h5{
+    color : rgb(0,0,150);
+    background-color : #00fcA2;
+    display : inline;
+}
+
+table{
+    background-color : #00fcA2;
+}
+
+
+
+/* *{
+        color : blue;
+        background-color : yellow;
+}  
+
+table{
+    background-color : #00fcA2;
+}
+
+#One{
+    color : pink;
+}
+
+#Two{
+    color : chocolate;
+} */
+
+.Myclass{
+    color : chocolate;
+    background-color : lightsalmon;
+}
+
+#box{
+    background-color: darkcyan;
+}
+
+form{
+    text-align: Center;
+    border-width : 2px;
+    border-style : dashed;
+    border-color : red ;
+}
+
+#dd{
+    height : 100px;
+    width : 100px;
+    background-color : grey;
+    border-width : 2px;
+    border-style : solid;
+    border-color : red ;
+    text-align : center;
+    border-radius : 50%;
+}
+
+#qq{
+    height : 300px;
+    width : 500px;
+    background-color : grey;
+    border-width : 2px;
+    border-style : solid;
+    border-color : red ;
+    text-align : center;
+    border-radius : 15px;
+    border-radius : 5%;
+
+    padding : 15px 15px 15px 15px;
+    margin : 25px 25px 25px 25px;
+    background-image : url(photo.jpg);
+    background-size : cover;
+    
+}
+
+#aa{
+    height : 150px;
+    width  : 50px;
+    background-color : white;
+    border-width : 2px;
+    border-style : solid;
+    border-color : black ;
+    text-align : center;
+    padding-left : 15px;
+    border-radius : 15px
+}
+
+#ss{
+    height : 30px;
+    width  : 30px;
+    background-color : red;
+    border-width : 1px;
+    border-style : solid;
+    border-color : black ;
+    border-radius : 50%;
+    
+}
+
+#yy{
+    height : 30px;
+    width  : 30px;
+    background-color : yellow;
+    border-width : 1px;
+    border-style : solid;
+    border-color : black ;
+    border-radius : 50%;
+}
+
+#gg{
+    height : 30px;
+    width  : 30px;
+    background-color : green;
+    border-width : 1px;
+    border-style : solid;
+    border-color : black ;
+    border-radius : 50%;
+}
+
+#nevbar{
+    height : 60px;
+    background-color: rgb(59, 40, 40);
+    width : 1200px;
+    border-width : 2px;
+    border-style : solid;
+    border-color : brown ;
+}
+
+button{
+    background-color: brown;
+    display : inline;
+}
+
+#logo {
+    color :brown;
+    text-decoration: none;
+}
+
+#ac{
+    padding-left :135px;
+    text-decoration: none;
+}
+#mc{
+    padding-left :135px;
+    text-decoration: none;
+}
+#cu{
+    padding-left :135px;
+    padding-right :120px;
+    text-decoration: none;
+}
+
+/* *{
+    display : none;
+} */
+
+
+/* *{
+    visibility : hidden;
+} */
+
+#box1{
+    height : 100px;
+    width : 100px;
+    background-color : rgb(217, 47, 47);
+    border : 2px solid red;
+    display : inline-block;
+    position : relative;
+    top : 20px;
+    left : 20px;
+    z-index: 3;
+}
+
+#box2{
+    height : 100px;
+    width : 100px;
+    background-color : black;
+    border : 2px solid red;
+    display : inline-block;
+    position : absolute;
+    top : 20px;
+    left : 20px;
+    z-index: 2;
+}
+
+#box3{
+    height : 100px;
+    width : 100px;
+    background-color : black;
+    border : 2px solid red;
+    display : inline-block;
+    position : fixed;
+    right: 20px;
+    z-index: 2;
+}
+
+#box4{
+    height : 100px;
+    width : 100px;
+    background-color : black;
+    border : 2px solid red;
+    display : inline-block;
+    z-index: 2;
+}
